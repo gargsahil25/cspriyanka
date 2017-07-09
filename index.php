@@ -7,11 +7,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Enterprise a Corporate Category Flat Bootstrap responsive Website Template | Home :: w3layouts</title>
+<title>Priyanka G & Associates | Company Secretary</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Enterprise Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="Company Secretary, Corporate Law Consultancy Firm, Priyanka G & Associates" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- bootstrap-css -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -47,13 +48,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="header">
 			<div class="container">
 				<div class="col-md-4 header-phn">
-					<h2>+18044561150</h2>
+					<h2>+91 9821976903</h2>
 				</div>
 				<div class="col-md-4 logo">
 					<a href="index.html"><h1>Enterprise</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
-					<a href="mailto:example@mail.com"><h3>example@gmail.com</h3></a>
+					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>
 				</div>
 			</div>
 		</div>
@@ -450,8 +451,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="col-md-6 contact-right">
 				<h5>To contact us please use the contact form visible</h5>
-				<h5>phone:<span class="dark">+18044265784</span></h5>
-				<h5>Email:<span class="dark"><a href="mailto:example@mail.com">mail@example.com</a></span></h5>
+				<h5>phone:<span class="dark">+91 9821976903</span></h5>
+				<h5>Email:<span class="dark"><a href="mailto:cspriyankagarg@gmail.com">cspriyankagarg@gmail.com</a></span></h5>
 				<ul>
 					<li><a class="linkedin" href="#"></a></li>
 					<li><a class="google" href="#"></a></li>
@@ -467,7 +468,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<a href="#banner" class="scroll"><img src="images/to-top.png" alt="" /></a>
-			<p> &copy; 2017 Enterprise. All Rights Reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+			<p> &copy; 2017 Priyanka G &amp; Associates. All Rights Reserved.</p>
 		</div>
 	</div>
 
