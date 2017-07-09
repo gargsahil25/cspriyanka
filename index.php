@@ -51,7 +51,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h2>+91 9821976903</h2>
 				</div>
 				<div class="col-md-4 logo">
-					<a href="index.html"><h1>Enterprise</h1></a>
+					<a href="index.html"><h1>Priyanka G &amp; Associates</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
 					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>
