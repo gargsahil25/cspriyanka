@@ -36,7 +36,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h2>+18044561150</h2>
 				</div>
 				<div class="col-md-4 logo">
-					<a href="index.html"><h1>Enterprise</h1></a>
+					<a href="index.php"><h1>Enterprise</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
 					<a href="mailto:example@mail.com"><h3>example@gmail.com</h3></a>
@@ -50,7 +50,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agileits_breadcrumbs_left">
 				<ul>
-					<li><a href="index.html">Home</a><i>|</i></li>
+					<li><a href="index.php">Home</a><i>|</i></li>
 					<li>Single</li>
 				</ul>
 			</div>
@@ -119,13 +119,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="w3l_categories">
 					<h3>Categories</h3>
 					<ul>
-						<li><a href="single.html">Vitae gravida elit fringilla nec sociosqu</a></li>
-						<li><a href="single.html">Morbi mauris turpis, posuere auctor auctor</a></li>
-						<li><a href="single.html">Class aptent taciti sociosqu litora torquent</a></li>
-						<li><a href="single.html">Duis venenatis, mi quis malesuada ultricies</a></li>
-						<li><a href="single.html">Egestas lectus urna et massa morbi mauris</a></li>
-						<li><a href="single.html">Torquent conubia nostra inceptos himenaeos</a></li>
-						<li><a href="single.html">Urna et massa morbi mauris turpis, posuere</a></li>
+						<li><a href="single.php">Vitae gravida elit fringilla nec sociosqu</a></li>
+						<li><a href="single.php">Morbi mauris turpis, posuere auctor auctor</a></li>
+						<li><a href="single.php">Class aptent taciti sociosqu litora torquent</a></li>
+						<li><a href="single.php">Duis venenatis, mi quis malesuada ultricies</a></li>
+						<li><a href="single.php">Egestas lectus urna et massa morbi mauris</a></li>
+						<li><a href="single.php">Torquent conubia nostra inceptos himenaeos</a></li>
+						<li><a href="single.php">Urna et massa morbi mauris turpis, posuere</a></li>
 					</ul>
 				</div>
 				
@@ -142,22 +142,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="w3agile_flickr_posts">
 					<h3>Flickr Posts</h3>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp1.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp1.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp2.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp2.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp3.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp3.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp4.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp4.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp5.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp5.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="w3agile_flickr_post_left">
-						<a href="single.html"><img src="images/bp6.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/bp6.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>

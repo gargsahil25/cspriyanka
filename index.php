@@ -45,7 +45,7 @@
 					<h2>+91 9821976903</h2>
 				</div>
 				<div class="col-md-4 logo">
-					<a href="index.html"><h1>Priyanka G &amp; Associates</h1></a>
+					<a href="index.php"><h1>Priyanka G &amp; Associates</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
 					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>
@@ -60,7 +60,7 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
-							<li class="hvr-bounce-to-bottom active"><a href="index.html">Home</a></li>
+							<li class="hvr-bounce-to-bottom active"><a href="index.php">Home</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="#about" class="scroll">About</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="#services" class="scroll">Services</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="#portfolio" class="scroll">Portfolio</a></li>
@@ -339,10 +339,10 @@
 			<div class="w3_blog_grids">
 				<div class="col-md-6 w3_blog_grid blog-grid1">
 					<div class="col-md-6 w3_blog_grid_left">
-						<a href="single.html"><img src="images/b1.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/b1.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="col-md-6 w3_blog_grid_right">
-						<h4><a href="single.html">suscipit dolor</a></h4>
+						<h4><a href="single.php">suscipit dolor</a></h4>
 						<h5>from blog post</h5>
 						<p>Cras vitae molestie urna, vel rhoncus urna. Quisque elementum hendrerit.</p>
 						<ul>
@@ -354,10 +354,10 @@
 				</div>
 				<div class="col-md-6 w3_blog_grid blog-grid2">
 					<div class="col-md-6 w3_blog_grid_left">
-						<a href="single.html"><img src="images/b2.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/b2.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="col-md-6 w3_blog_grid_right">
-						<h4><a href="single.html">Quisque elemen</a></h4>
+						<h4><a href="single.php">Quisque elemen</a></h4>
 						<h5>from blog post</h5>
 						<p>Cras vitae molestie urna, vel rhoncus urna. Quisque elementum hendrerit.</p>
 						<ul>
@@ -368,10 +368,10 @@
 				</div>
 				<div class="col-md-6 w3_blog_grid blog-bottom blog-grid3">
 					<div class="col-md-6 w3_blog_grid_left">
-						<a href="single.html"><img src="images/b3.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/b3.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="col-md-6 w3_blog_grid_right">
-						<h4><a href="single.html">Fringilla erat</a></h4>
+						<h4><a href="single.php">Fringilla erat</a></h4>
 						<h5>from blog post</h5>
 						<p>Cras vitae molestie urna, vel rhoncus urna. Quisque elementum hendrerit.</p>
 						<ul>
@@ -383,10 +383,10 @@
 				</div>
 				<div class="col-md-6 w3_blog_grid blog-bottom">
 					<div class="col-md-6 w3_blog_grid_left">
-						<a href="single.html"><img src="images/b4.jpg" alt=" " class="img-responsive" /></a>
+						<a href="single.php"><img src="images/b4.jpg" alt=" " class="img-responsive" /></a>
 					</div>
 					<div class="col-md-6 w3_blog_grid_right">
-						<h4><a href="single.html"> Nulla molestie</a></h4>
+						<h4><a href="single.php"> Nulla molestie</a></h4>
 						<h5>from blog post</h5>
 						<p>Cras vitae molestie urna, vel rhoncus urna. Quisque elementum hendrerit.</p>
 						<ul>
