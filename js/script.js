@@ -1,7 +1,7 @@
 $("#contact-form").submit(function(event) {
     $.ajax({
         dataType: "json",
-        url: "sendEmail.php",
+        url: "php/sendEmail.php",
         method: "POST",
         async: true,
         data: {
