@@ -429,16 +429,16 @@
 				<form id="contact-form">
 					<div class="col-md-6">
 					<h4>YOUR NAME</h4>
-					<input type="text" class="name" name="name" id="contact-name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+					<input type="text" class="name" name="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
 					</div>
 					<div class="col-md-6">
 					<h4>YOUR CONTACT</h4>
-					<input type="text" name="contact" id="contact-detail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email/Phone';}" required="">
+					<input type="text" name="contact" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email/Phone';}" required="">
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-md-12">
 					<h4>MESSAGE</h4>
-					<textarea name="message" id="contact-message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required=""></textarea>
+					<textarea name="message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required=""></textarea>
 					</div>
 					<input type="submit" value="Send">
 				</form>
