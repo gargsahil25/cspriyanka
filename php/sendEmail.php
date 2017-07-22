@@ -1,11 +1,9 @@
 <?php
 
-echo $name = $_POST['name'];
+$name = $_POST['name'];
 $contact = $_POST['contact'];
 $message = $_POST['message'];
 $to = "cspriyankagarg@gmail.com, garg.sahil25@gmail.com";
-die();
-	
 
 if ($name || $contact || $message) {
 	$subject = "Someone contacted you via your website"; 

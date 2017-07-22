@@ -1,10 +1,9 @@
 $("#contact-form").submit(function(event) {
     var data = new FormData(this);
-	alert("jik");
     $.ajax({
+		url: "php/sendEmail.php",
         type: 'POST',
         data: data,
-         url: "php/sendEmail.php",
 		contentType: false,
         processData: false,
         success: function(result, status, xhr) {
