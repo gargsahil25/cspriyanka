@@ -204,7 +204,7 @@ label.line{
 .about-agile h6,.blog h6,.gallery h6,.services h6,.contact h6{
     color: #666;
 	font-size:14px;
-	width:35%;
+	width:85%;
 	margin:0 auto;
 	line-height:27px;
 }
@@ -630,7 +630,8 @@ input.name{
 	color:#000;
 	font-size:16px;
 	text-align:left;
-	margin-bottom:30px;
+	margin-bottom:10px;
+	line-height: 25px;
 }
 span.dark{
 	font-weight:700;

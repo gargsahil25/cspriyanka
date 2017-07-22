@@ -1,10 +1,10 @@
 $("#contact-form").submit(function(event) {
     var data = new FormData(this);
     $.ajax({
-		url: "php/sendEmail.php",
+        url: "php/sendEmail.php",
         type: 'POST',
         data: data,
-		contentType: false,
+        contentType: false,
         processData: false,
         success: function(result, status, xhr) {
             $('#contact-container').html("Thank you for contacting us. We'll get back to you shortly.");

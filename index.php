@@ -77,21 +77,21 @@
 		<div class="container">
 			<h3>About Us</h3>
 			<label class="line"></label>
-			<h6>Curabitur vel elit odio. Phasellus fringilla est a mi maximus posuere. Quisque gravida molestie vestibulum. </h6>
+			<h6>A dynamic and progressive firm of Company Secretaries with local insight and a global vision, Priyanka G &amp; Associates provides professional services in the areas of Corporate Law Consultancy and Compliance Practice ensuring corporate governance and high ethical standards.</h6>
 			<div class="col-md-4 hi-icon-effect-6 agile1">
-				<span class="glyphicon glyphicon-link" aria-hidden="true"></span>
-				<h4>Vestibulum</h4>
-				<p>Aenean elementum viverra ex. Fusce ornare quam libero, ac ornare nibh imperdiet sit amet. ictum imperdiet.</p>
+				<span class="glyphicon glyphicon-record" aria-hidden="true"></span>
+				<h4>Commitment To Excellence</h4>
+				<p>Priyanka G &amp; Associates is a firm of Company Secretaries and founded on the concept that the success of a firm is tied to the success of its clients and on the understanding that such combined success can only be achieved through commitment to excellence, which, within our profession, encompasses legal expertise.</p>
 			</div>
 			<div class="col-md-4 agile2">
-				<span class="glyphicon glyphicon-cog" aria-hidden="true"></span> 
-				<h4>Suspendisse</h4>
-				<p>Curabitur vel elit odio. Phasellus fringilla est a mi maximus posuere. Quisque gravida molestie diet Morbi.</p>
+				<span class="glyphicon glyphicon-signal" aria-hidden="true"></span> 
+				<h4>Corporate Consultancy</h4>
+				<p>Priyanka G &amp; Associates specializes in Corporate Consultancy in the areas of Legal Compliances, Board Management, Secretarial Audits, Corporate Governance Audit, Security Management Audit, Public issue of Securities, Listing of securities, Legal Due Diligence, Mergers, Acquisitions, Takeovers, Joint ventures and Collaborations.</p>
 			</div>
 			<div class="col-md-4 agile3">
-				<span class="glyphicon glyphicon-save" aria-hidden="true"></span>
-				<h4>Consectetur</h4>
-				<p>Donec a velit ligula. Maecenas laoreet odio tortor, at sagittis nulla fringilla Curabitur a imperdiet mauris. </p>	
+				<span class="glyphicon glyphicon-link" aria-hidden="true"></span>
+				<h4>High Professional Standards</h4>
+				<p>Priyanka G &amp; Associates endeavors to maintain and widen its client base by continuously adhering to the highest professional standards in the field of Corporate Law &amp; Practices. This spirit is all pervasive at the firm where the very aim is to provide quality and time bound services to clients, which give them that cutting edge.</p>	
 			</div>
 		</div>
 	</div>
@@ -106,14 +106,14 @@
 					<p class="counter">324</p> 
 				</div>
 				<div class="clearfix"> </div>
-				<h3>Creative Design</h3>
+				<h3>Creative Solutions</h3>
 			</div>
 			<div class="col-md-3 agile_count_grid">
 				<div class="agile_count_grid_left">
 					<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
 				</div>
 				<div class="agile_count_grid_right">
-					<p class="counter">543</p> 
+					<p class="counter">143</p> 
 				</div>
 				<div class="clearfix"> </div>
 				<h3>Happy Clients</h3>
@@ -123,7 +123,7 @@
 					<span class="glyphicon glyphicon-heart-empty" aria-hidden="true"></span>
 				</div>
 				<div class="agile_count_grid_right">
-					<p class="counter">434</p> 
+					<p class="counter">234</p> 
 				</div>
 				<div class="clearfix"> </div>
 				<h3>People Loved</h3>
@@ -133,7 +133,7 @@
 					<span class="glyphicon glyphicon-piggy-bank" aria-hidden="true"></span>
 				</div>
 				<div class="agile_count_grid_right">
-					<p class="counter">234</p> 
+					<p class="counter">134</p> 
 				</div>
 				<div class="clearfix"> </div>
 				<h3>Save Income</h3>
@@ -485,34 +485,38 @@
 		<div class="container">	
 			<h3>Contact</h3>
 			<label class="line"></label>
-			<h6>Curabitur vel elit odio. Phasellus fringilla est a mi maximus posuere. Quisque gravida molestie vestibulum. </h6>
+			<h6>Feel free to contact us using the contact form. We will get back to you as soon as possible.</h6>
 			<div class="col-md-6 contact-left" id="contact-container">
 				<form id="contact-form" >
 					<div class="col-md-6">
 					<h4>YOUR NAME</h4>
-					<input type="text" class="name" name="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+					<input type="text" class="name" name="name" placeholder="Name" required="">
 					</div>
 					<div class="col-md-6">
 					<h4>YOUR CONTACT</h4>
-					<input type="text" name="contact" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email/Phone';}" required="">
+					<input type="text" name="contact" placeholder="Email/Phone" required="">
 					</div>
 					<div class="clearfix"></div>
 					<div class="col-md-12">
 					<h4>MESSAGE</h4>
-					<textarea name="message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required=""></textarea>
+					<textarea name="message" placeholder="Message..." required=""></textarea>
 					</div>
 					<input type="submit" value="Send">
 				</form>
 			</div>
 			<div class="col-md-6 contact-right">
-				<h5>To contact us please use the contact form visible</h5>
-				<h5>phone:<span class="dark">+91 9821976903</span></h5>
-				<h5>Email:<span class="dark"><a href="mailto:cspriyankagarg@gmail.com">cspriyankagarg@gmail.com</a></span></h5>
+				<h5>Contact Details:</h5>
+				<h5><span class="dark">Priyanka Garg</span><br/>
+					Company Secretary<br/>
+					Membership No. A49087<br/>
+					MBA (Finance), B.Com</h5>
+				<h5><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> <span class="dark">+91 9821976903</span></h5>
+				<h5><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <span class="dark"><a href="mailto:cspriyankagarg@gmail.com">cspriyankagarg@gmail.com</a></span></h5>
 				<ul>
-					<li><a class="linkedin" href="#"></a></li>
-					<li><a class="google" href="#"></a></li>
-					<li><a class="twitter" href="#"></a></li>
-					<li><a class="facebook" href="#"></a></li>
+					<li><a class="linkedin" target="_blank" href="https://www.linkedin.com/in/priyanka-garg-a22b93120"></a></li>
+					<!-- <li><a class="google" href="#"></a></li> -->
+					<!-- <li><a class="twitter" href="#"></a></li> -->
+					<li><a class="facebook" target="_blank" href="https://www.facebook.com/Priyanka-G-Associates-313238629102493"></a></li>
 				</ul>
 			</div>
 			<div class="clearfix"></div>
