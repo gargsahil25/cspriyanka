@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<style type="text/css">
+	
+	.box-height{
+		max-height:300px;
+	}
+	.service-grids-w3:hover a{
+		color: #FFF;
+		transform: translate(0,-5px);
+		-webkit-transform: translate(0,-5px);
+		-o-transform: translate(0,-5px); 
+		-moz-transform: translate(0,-5px);
+		-webkit-transition: all .2s ease-in-out;
+		-moz-transition: all .2s ease-in-out;
+		transition: all .2s ease-in-out;
+	}
+
+</style>
+
+
 <title>Priyanka G & Associates | Company Secretary</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -161,12 +181,12 @@
 			<label class="line"></label>
 			<h6>We are pleased to get the opportunity to serve our professional services in respect of all matters pertaining to the Companies Act, 2013 to your prestigious organization.</h6>
 			<div class="service-content">
-			<!-- himgiri <div class="col-md-3 service-grids-w3">
+			<!-- himgiri <div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-flash" aria-hidden="true"></span>
 				<h4>service-1</h4>
 				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl.</p>
 			</div> himgiri -->
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height ">
 				<span class="glyphicon glyphicon-eject" aria-hidden="true"></span>
 				<h4>FORM A BUSINESS</h4>
 				<ul style="list-style: none;">
@@ -174,67 +194,67 @@
 					<li>Public Limited Company</li>
 					<li>Limited Liability Partnership</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#form_business">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-saved" aria-hidden="true"></span>
 				<h4>COMPLIANCES</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>ROC Compliances</li>
+					<li>Certification of E-forms and filing with MCAportal/ROCandother governmentagencies</li>
+					<li>Company Annual Filing</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#compliances">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
 				<h4>REGISTRATION/ LICENSES</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>FSSAI Food License</li>
+					<li>Import Export Code</li>
+					<li>ISO Registration</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#registration">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-flag" aria-hidden="true"></span>
 				<h4>UPDATION OF RECORDS</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>Allotment of Shares</li>
+					<li>Name change of Company</li>
+					<li>Conversion of Companies</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#update_records">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
 				<h4>CONVERSION/ WINDING UP</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>Proprietorship to Private Limited Company</li>
+					<li>Private Limited Company to Public Limited</li>
+					<li>Partnership to LLP</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#conversion">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-signal" aria-hidden="true"></span>
 				<h4>LEGAL DOCUMENTS</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>Board Resolution</li>
+						<li>Notices, Director Report, Minutes</li>
+						<li>Partnership Deed</li>
 				</ul>
-				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#legal_documents">click to view more.</a></p>
 			</div>
-			<div class="col-md-3 service-grids-w3">
+			<div class="col-md-3 service-grids-w3 box-height">
 				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>TAX FILINGS</h4>
 				<ul style="list-style: none;">
-					<li>Private Limited Company</li>
-					<li>Public Limited Company</li>
-					<li>Limited Liability Partnership</li>
+					<li>Income Tax Return (ITR)</li>
+					<li>TDS</li>
+					<li>Sales Tax Return</li>
 				</ul>
-				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#myModal">click to view more.</a></p>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#tax_filings">click to view more.</a></p>
 			</div>
 			<div class="clearfix"></div>
 			</div>
@@ -242,27 +262,7 @@
 	</div>
 
 
-	  <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
-        </div>
-        <div class="modal-body">
-          <p>Some text in the modal.</p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  <!-- Modal End-->
+<?php include "modals.php";?>
 
 
 
