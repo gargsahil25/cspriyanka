@@ -11,7 +11,7 @@ $("#contact-form").submit(function(event) {
         },
         error: function(xhr, status, error) {
             console.log(status, error);
-            $('#contact-container').html("There is some error while sending your message. Please try contacting via email or phone.");
+            $('#contact-container').html("There is some error while sending your message.<br/>Please try contacting via email or phone.");
         }
     });
     event.preventDefault();
