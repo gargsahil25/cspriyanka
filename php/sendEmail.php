@@ -9,6 +9,7 @@ if ($name || $contact || $message) {
 	$subject = "Someone contacted you via your website"; 
 	$message = "Name: {$name}\nContact: {$contact}\nMessage: {$message}";
 	echo mail($to,$subject,$message);
+
 }
 
 ?>

@@ -63,8 +63,8 @@
 							<li class="hvr-bounce-to-bottom active"><a href="index.php">Home</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="#about" class="scroll">About</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="#services" class="scroll">Services</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="#portfolio" class="scroll">Portfolio</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="#events" class="scroll">Events</a></li>
+							<!-- himgiri <li class="hvr-bounce-to-bottom"><a href="#portfolio" class="scroll">Portfolio</a></li>
+							<li class="hvr-bounce-to-bottom"><a href="#events" class="scroll">Events</a></li> himgiri -->
 							<li class="hvr-bounce-to-bottom"><a href="#contact" class="scroll">Contact Us</a></li>
 						</ul>	
 						<div class="clearfix"> </div>
@@ -159,55 +159,116 @@
 		<div class="container">
 			<h3>Services</h3>
 			<label class="line"></label>
-			<h6>Curabitur vel elit odio. Phasellus fringilla est a mi maximus posuere. Quisque gravida molestie vestibulum. </h6>
+			<h6>We are pleased to get the opportunity to serve our professional services in respect of all matters pertaining to the Companies Act, 2013 to your prestigious organization.</h6>
 			<div class="service-content">
-			<div class="col-md-3 service-grids-w3">
+			<!-- himgiri <div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-flash" aria-hidden="true"></span>
 				<h4>service-1</h4>
 				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl.</p>
-			</div>
+			</div> himgiri -->
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-eject" aria-hidden="true"></span>
-				<h4>service-2</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl.</p>
+				<h4>FORM A BUSINESS</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-saved" aria-hidden="true"></span>
-				<h4>service-3</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl.</p>
+				<h4>COMPLIANCES</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
-				<h4>service-4</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl.</p>
+				<h4>REGISTRATION/ LICENSES</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-flag" aria-hidden="true"></span>
-				<h4>service-5</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl. </p>
+				<h4>UPDATION OF RECORDS</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
-				<h4>service-6</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl. </p>
+				<h4>CONVERSION/ WINDING UP</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-signal" aria-hidden="true"></span>
-				<h4>service-7</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl. </p>
+				<h4>LEGAL DOCUMENTS</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a style="font-size: 11px;" href="#">click to view more.</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3">
 				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-				<h4>service-8</h4>
-				<p> Aliquam volutpat sapien vitae elit porta fermentum. Nam condimentum rhoncus nisl. </p>
+				<h4>TAX FILINGS</h4>
+				<ul style="list-style: none;">
+					<li>Private Limited Company</li>
+					<li>Public Limited Company</li>
+					<li>Limited Liability Partnership</li>
+				</ul>
+				<p style="text-align: right;"><a data-toggle="modal"  style="font-size: 11px;" href="#myModal">click to view more.</a></p>
 			</div>
 			<div class="clearfix"></div>
 			</div>
 		</div>
 	</div>
+
+
+	  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <!-- Modal End-->
+
+
+
 	<!-- //Services -->
 	<!--gallery-->
-		<div class="gallery" id="portfolio">	
+		<!-- himgiri <div class="gallery" id="portfolio">	
 			<div class="container">
 				<h3>Portfolio</h3>
 				<label class="line"></label>
@@ -280,10 +341,10 @@
 				<div class="clearfix"></div>
 				<script src="js/lightbox-plus-jquery.min.js"> </script>
 			</div>
-		</div>
+		</div> himgiri-->
 		<!--//gallery-->
 	<!-- Clients -->
-	<div class="clients">
+	<!-- himgiri<div class="clients">
 		<div class="container">
 			<h3>Testimonials</h3>
 			<label class="line"></label>
@@ -326,12 +387,12 @@
 				</div>
 			</section>
 		</div>
-	</div>
+	</div> himgiri-->
 	<!-- //Clients -->
 
 	
 	<!-- blog -->
-	<div class="blog" id="events">
+	<!-- himgiri<div class="blog" id="events">
 		<div class="container">
 			<h3>Blog Posts</h3>
 			<label class="line"></label>
@@ -399,7 +460,7 @@
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-	</div>
+	</div> himgiri-->
 	<!-- //blog -->
 	<!-- FlexSlider-JavaScript -->
 	<script defer src="js/jquery.flexslider.js"></script>
@@ -426,7 +487,7 @@
 			<label class="line"></label>
 			<h6>Curabitur vel elit odio. Phasellus fringilla est a mi maximus posuere. Quisque gravida molestie vestibulum. </h6>
 			<div class="col-md-6 contact-left" id="contact-container">
-				<form id="contact-form">
+				<form id="contact-form" >
 					<div class="col-md-6">
 					<h4>YOUR NAME</h4>
 					<input type="text" class="name" name="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
