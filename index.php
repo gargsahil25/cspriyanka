@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Priyanka G & Associates | Company Secretary</title>
+<title>Priyanka G &amp; Associates | Company Secretary</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Company Secretary, Corporate Law Consultancy Firm, Priyanka G & Associates" />
@@ -38,6 +38,7 @@
 	
 </head>
 <body>
+	<?php include "includes/tracking.php";?>
 	<div class="banner" id="banner">
 		<div class="header">
 			<div class="container">
@@ -237,7 +238,7 @@
 	</div>
 
 
-<?php include "includes/modals.php";?>
+	<?php include "includes/modals.php";?>
 
 
 
