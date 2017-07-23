@@ -411,7 +411,7 @@ label.line{
 	transition: border-color .2s ease-in-out;
 }
 .madal-ul{
-	padding : 10px 10px 10px 10px;
+	padding-left: 40px;
 }
 .madal-li{
 	padding: 3px;

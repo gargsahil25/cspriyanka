@@ -44,7 +44,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Compliances</h2>
+				<h2 class="modal-title">COMPLIANCES &amp; FILING</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
@@ -64,7 +64,7 @@
 						<li class="madal-li">Under SEBI (LODR) Regulations, etc</li>
 						<li class="madal-li">Quarterly / Half Yearly / Annual Compliances under SEBI Listing Regulations</li>
 						<li class="madal-li">Quarterly / Half Yearly / Annual Compliances under Labour Laws</li>
-						<li class="madal-li">Search Report/ Status Report</li>
+						<li class="madal-li">Search Report / Status Report</li>
 						<li class="madal-li">Other related matters</li>
 					</ul>
 				</div>
@@ -86,7 +86,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Registration</h2>
+				<h2 class="modal-title">REGISTRATION &amp; LICENSES</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
@@ -125,7 +125,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Updation Of Records</h2>
+				<h2 class="modal-title">UPDATION OF RECORDS</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
@@ -139,10 +139,10 @@
 						<li class="madal-li">Change in Authorized Share Capital of the Company</li>
 						<li class="madal-li">Alteration in MOA &amp; AOA</li>	
 						<li class="madal-li">Change in Objects of the Company</li>
-						<li class="madal-li">Appointment/ Resignation of Directors</li>
+						<li class="madal-li">Appointment/Resignation of Directors</li>
 						<li class="madal-li">Appointment of Auditor of the Company</li>
 						<li class="madal-li">Providing DIN and DSC of Directors</li>
-						<li class="madal-li">Issue of shares/ Share Certificates</li>
+						<li class="madal-li">Issue of shares / Share Certificates</li>
 						<li class="madal-li">Transfer of Shares</li>
 						<li class="madal-li">Other related matters</li>
 					</ul>
@@ -165,7 +165,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Conversion/Winding Up</h2>
+				<h2 class="modal-title">CONVERSION &amp; WINDING UP</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
@@ -195,7 +195,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Legal Documents</h2>
+				<h2 class="modal-title">LEGAL DOCUMENTS</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
@@ -228,7 +228,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal">&times;</button>
-				<h2 class="modal-title">Tax Filings</h2>
+				<h2 class="modal-title">TAX FILINGS &amp; RETURNS</h2>
 			</div>
 			<div class="modal-body">
 				<div class="first-column">
