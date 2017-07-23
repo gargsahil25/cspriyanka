@@ -336,6 +336,18 @@ label.line{
     width: 23%;
 	border: 1px solid #e3e3e3;
 }
+.service-grids-w3 ul {
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 10px;
+}
+.service-grids-w3 p {
+	margin-top: 10px;
+    font-size: 0.8em;
+}
+.service-grids-w3 a {
+	border-bottom: 1px dotted #fff;
+}
 .service-grids-w3:before {
 	content: "";
 	position: absolute;
@@ -359,6 +371,7 @@ label.line{
 	-webkit-transition: background .2s ease-in-out;
 	-moz-transition: background .2s ease-in-out;
 	transition: background .2s ease-in-out;
+	cursor: pointer;
 }
 .service-grids-w3:hover .glyphicon{
 	color: #4a92a0;
@@ -371,7 +384,7 @@ label.line{
 	-moz-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 }
-.service-grids-w3:hover h4{
+.service-grids-w3:hover h4, .service-grids-w3:hover ul, .service-grids-w3:hover a {
 	color: #FFF;
 	transform: translate(0,-5px);
 	-webkit-transform: translate(0,-5px);
@@ -397,6 +410,13 @@ label.line{
 	-moz-transition: border-color .2s ease-in-out;
 	transition: border-color .2s ease-in-out;
 }
+.madal-ul{
+	padding : 10px 10px 10px 10px;
+}
+.madal-li{
+	padding: 3px;
+}
+
 /*-- //Services--*/
 /*--gallery--*/
 .gallery-grids {
