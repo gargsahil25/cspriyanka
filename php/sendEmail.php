@@ -1,6 +1,6 @@
 <?php
 // If you are using Composer
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 $name = $_POST['name'];
 $contact = $_POST['contact'];
