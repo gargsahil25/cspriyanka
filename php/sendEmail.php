@@ -5,7 +5,8 @@ require '../vendor/autoload.php';
 $name = $_POST['name'];
 $contact = $_POST['contact'];
 $message = $_POST['message'];
-$message = "Name: {$name}<br/>Contact: {$contact}<br/>Message: {$message}";
+$message = "Name: {$name}<br/>Contact: {$contact}<br/>Message:<br/>{$message}";
+$message = str_replace(array("\r\n", "\n", "\r"), '<br/>', $message);
 
 if ($name || $contact || $message) {
 	$request_body = json_decode('{
