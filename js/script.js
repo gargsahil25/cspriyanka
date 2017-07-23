@@ -7,7 +7,7 @@ $("#contact-form").submit(function(event) {
         contentType: false,
         processData: false,
         success: function(result, status, xhr) {
-            $('#contact-container').html("Thank you for contacting us. We'll get back to you shortly.");
+            $('#contact-container').html("Thank you for contacting us.<br/>We'll get back to you shortly.");
         },
         error: function(xhr, status, error) {
             console.log(status, error);

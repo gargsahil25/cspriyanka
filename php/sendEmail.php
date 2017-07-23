@@ -5,6 +5,7 @@ require '../vendor/autoload.php';
 $name = $_POST['name'];
 $contact = $_POST['contact'];
 $message = $_POST['message'];
+$message = "Name: {$name}\nContact: {$contact}\nMessage: {$message}";
 
 if ($name || $contact || $message) {
 	$request_body = json_decode('{
@@ -30,7 +31,7 @@ if ($name || $contact || $message) {
 	  "content": [
 	    {
 	      "type": "text/plain",
-	      "value": "Name: {$name}\nContact: {$contact}\nMessage: {$message}"
+	      "value": {$message}
 	    }
 	  ]
 	}');
