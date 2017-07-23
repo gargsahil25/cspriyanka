@@ -42,7 +42,7 @@
 		<div class="header">
 			<div class="container">
 				<div class="col-md-4 logo">
-					<a href="index.php"><h1>Priyanka G &amp; Associates</h1></a>
+					<a href="index.php"><img src="images/logo.png"/></br><h1>Priyanka G &amp; Associates</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
 					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>

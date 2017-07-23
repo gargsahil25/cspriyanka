@@ -88,6 +88,12 @@ img {
 }
 .header .logo, .header .header-phn, .header .header-mail {
 	width: 100%;
+	text-align: center;
+}
+.header .logo img {
+	height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
 }
 /*--top-nav--*/
 .top-nav {
