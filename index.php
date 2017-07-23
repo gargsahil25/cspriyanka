@@ -162,7 +162,7 @@
 			<h6>We are pleased to get the opportunity to serve our professional services in respect of all matters pertaining to the Companies Act, 2013 to your prestigious organization.</h6>
 			<div class="service-content">
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#form_business">
-				<span class="glyphicon glyphicon-eject" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>FORM A BUSINESS</h4>
 				<ul>
 					<li>Public Limited Company</li>
@@ -172,7 +172,7 @@
 				<p><a>click to view more</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#compliances">
-				<span class="glyphicon glyphicon-saved" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>COMPLIANCES &amp; FILING</h4>
 				<ul>
 					<li>XBRL Filing</li>
@@ -182,7 +182,7 @@
 				<p><a>click to view more</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#registration">
-				<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>REGISTRATION &amp; LICENSES</h4>
 				<ul>
 					<li>GST Registration</li>
@@ -192,7 +192,7 @@
 				<p><a>click to view more</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#update_records">
-				<span class="glyphicon glyphicon-flag" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>UPDATION OF RECORDS</h4>
 				<ul>
 					<li>Alteration in MOA &amp; AOA</li>
@@ -202,22 +202,22 @@
 				<p><a>click to view more</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#conversion">
-				<span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>CONVERSION &amp; WINDING UP</h4>
 				<ul>
-					<li>Proprietorship to Private Limited Company</li>
-					<li>Private Limited Company to Public Limited</li>
 					<li>Partnership to LLP</li>
+					<li>Closing LLP</li>
+					<li>Winding up of the Company</li>
 				</ul>
 				<p><a>click to view more</a></p>
 			</div>
 			<div class="col-md-3 service-grids-w3" data-toggle="modal" href="#legal_documents">
-				<span class="glyphicon glyphicon-signal" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 				<h4>LEGAL DOCUMENTS</h4>
 				<ul>
+					<li>Notices &amp; Director Reports</li>
+					<li>Sale/Lease Deed</li>
 					<li>Board Resolution</li>
-						<li>Notices, Director Report, Minutes</li>
-						<li>Partnership Deed</li>
 				</ul>
 				<p><a>click to view more</a></p>
 			</div>
@@ -226,8 +226,8 @@
 				<h4>TAX FILINGS &amp; RETURNS</h4>
 				<ul>
 					<li>Income Tax Return (ITR)</li>
+					<li>GST Return</li>
 					<li>TDS</li>
-					<li>Sales Tax Return</li>
 				</ul>
 				<p><a>click to view more</a></p>
 			</div>

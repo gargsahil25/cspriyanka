@@ -174,7 +174,7 @@
 						<li class="madal-li">Private Limited Company to Public Limited</li>
 						<li class="madal-li">Partnership to LLP</li>
 						<li class="madal-li">Closing LLP</li>
-						<li class="madal-li">Winding Up of the Company</li>
+						<li class="madal-li">Winding up of the Company</li>
 					</ul>
 				</div>
 			</div>
@@ -204,7 +204,7 @@
 						<li class="madal-li">Notices, Director Report, Minutes</li>
 						<li class="madal-li">Partnership Deed</li>
 						<li class="madal-li">LLP Agreement</li>
-						<li class="madal-li">Sale/ Lease Deed</li>
+						<li class="madal-li">Sale/Lease Deed</li>
 						<li class="madal-li">Rent Agreement</li>
 						<li class="madal-li">Share Purchase Agreement</li>
 						<li class="madal-li">Franchise Agreement, etc</li>
