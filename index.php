@@ -46,7 +46,7 @@
 					<a href="index.php"><img src="images/logo.png"/></br><h1>Priyanka G &amp; Associates</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
-					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>
+					<a href="mailto:cspriyankagarg@gmail.com"><h3>cspriyankagarg@gmail.com</h3></a>
 				</div>
 				<div class="col-md-4 header-phn">
 					<a href="tel:+919821976903"><h2>+91 9821976903</h2></a>
