@@ -31,7 +31,7 @@ if ($name || $contact || $message) {
 	  "content": [
 	    {
 	      "type": "text/plain",
-	      "value": {$message}
+	      "value": '.$message.'
 	    }
 	  ]
 	}');
