@@ -86,6 +86,9 @@ img {
 .header h3{
 	margin-top:15px;
 }
+.header .logo, .header .header-phn, .header .header-mail {
+	width: 100%;
+}
 /*--top-nav--*/
 .top-nav {
 	position:absolute;
@@ -1300,11 +1303,8 @@ span.dark a{
 	}
 }
 @media (max-width:568px){
-	.header h2{
-		margin-top:54px;
-	}
 	.header h3 {
-		margin-top: 58px;
+		margin-top: 15px;
 	}
 	.agile_count_grid {
 		width: 50%;
@@ -1338,9 +1338,6 @@ span.dark a{
 	.header-mail {
 		width: 38%;
 		float: right;
-	}
-	.header h1 {
-		margin-left: -32px;
 	}
 	.header h3 {
 		margin-top: 25px;
@@ -1403,9 +1400,6 @@ span.dark a{
 
 }
 @media (max-width:414px){
-	.col-md-4.logo {
-		width: 48%;
-	}
 	.header-mail {
 		width: 38%;
 		float: right;

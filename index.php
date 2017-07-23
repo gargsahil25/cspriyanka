@@ -41,14 +41,14 @@
 	<div class="banner" id="banner">
 		<div class="header">
 			<div class="container">
-				<div class="col-md-4 header-phn">
-					<h2>+91 9821976903</h2>
-				</div>
 				<div class="col-md-4 logo">
 					<a href="index.php"><h1>Priyanka G &amp; Associates</h1></a>
 				</div>
 				<div class="col-md-4 header-mail">
 					<a href="mailto:example@mail.com"><h3>cspriyankagarg@gmail.com</h3></a>
+				</div>
+				<div class="col-md-4 header-phn">
+					<a href="tel:+919821976903"><h2>+91 9821976903</h2></a>
 				</div>
 			</div>
 		</div>
@@ -484,7 +484,7 @@
 				<h5><span class="dark">Priyanka Garg</span><br/>
 					Company Secretary<br/>
 					MBA (Finance), B.Com</h5>
-				<h5><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> <span class="dark">+91 9821976903</span></h5>
+				<h5><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> <span class="dark"><a href="tel:+919821976903">+91 9821976903</a></span></h5>
 				<h5><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <span class="dark"><a href="mailto:cspriyankagarg@gmail.com">cspriyankagarg@gmail.com</a></span></h5>
 				<ul>
 					<li><a class="linkedin" target="_blank" href="https://www.linkedin.com/in/priyanka-garg-a22b93120"></a></li>
